@@ -4,39 +4,34 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="240" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/24864316?v=4" width="180" style="border-radius:50%;border:3px solid #2C5364;" />
+<div align="center">
 
 <h2>Viktor Rocha</h2>
 
-<a href="mailto:viktoorrocha@gmail.com"><img src="https://img.shields.io/badge/-viktoorrocha%40gmail.com-2C5364?style=flat-square&logo=gmail&logoColor=white" /></a><br/>
+<a href="mailto:viktoorrocha@gmail.com"><img src="https://img.shields.io/badge/-viktoorrocha%40gmail.com-2C5364?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0F2027?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Viktoorrocha"><img src="https://img.shields.io/badge/-GitHub-0F2027?style=flat-square&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Viktoorrocha&color=2C5364&style=flat-square&label=Profile+Views" />
 
-</td>
-<td width="600">
+</div>
+
+<br/>
+
+<div align="center" width="720">
 
 ### 🦾 Sobre mim
 
-**Backend & Data Engineer** com **20+ anos de experiência**, hoje construindo pipelines de dados e sistemas de IA que sustentam decisões de e-commerce (importação China → Brasil, Amazon FBA).
+**Backend & Data Engineer** com **20+ anos de experiência**, especializado em arquitetura de sistemas de dados e integração de IA em produtos com alto volume de transações.
 
-- 🐍 Python · Django · PostgreSQL · Docker — minha base há duas décadas
-- 📊 Airflow · dbt · Celery — automatizando e escalando dados
-- 🤖 Integrando LLMs (Claude API) em produtos reais, não em demo
-- 🧠 Gosto de sistema que aguenta produção, não só protótipo bonito
-- 📍 Manaus, Amazonas, Brasil
-- 🕒 UTC−04:00
+- 🐍 **Python · Django · DRF · PostgreSQL** — design de APIs, modelagem de dados e otimização de queries em produção há duas décadas
+- 📊 **Airflow · dbt · Celery · Redis** — orquestração de pipelines ETL/ELT e processamento assíncrono distribuído
+- 🐳 **Docker** — containerização e deploy de serviços em ambientes de produção
+- 🤖 **LLM Engineering (Claude API)** — integração de modelos de linguagem em fluxos de produção, com foco em confiabilidade e custo
+- 🧠 Prioridade em observabilidade, testes e sistemas que sustentam carga real — não protótipo
+- 📍 Manaus, Amazonas, Brasil · 🕒 UTC−04:00
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
