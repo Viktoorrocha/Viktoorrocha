@@ -1,76 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=ffffff&desc=Backend%20%26%20Data%20Engineer%20%7C%2020%2B%20anos%20de%20c%C3%B3digo&descAlign=50&descAlignY=62&animation=fadeIn" width="100%"/>
+# Viktor Rocha
+
+### 🇧🇷 Engenheiro de Dados · Engenharia de Software · Data & AI Systems
+
+### 🇺🇸 Data Engineer · Software Engineering · Data & AI Systems
+
+**20+ anos em tecnologia · Python · SQL · Spark · Databricks · Snowflake · AWS**
+
+<a href="https://linkedin.com/in/viktor-rocha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:viktoorrocha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Viktoorrocha">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
+
+---
+
+# 🇧🇷 Sobre mim
+
+Sou **Engenheiro de Dados com mais de 20 anos de experiência em tecnologia**, com trajetória em engenharia de software, desenvolvimento backend, arquitetura de sistemas, liderança técnica e Product Management.
+
+Atualmente, meu foco está em **Engenharia de Dados**, trabalhando com construção de pipelines, processamento e transformação de dados e plataformas modernas de dados.
+
+Minha stack atual inclui:
+
+* 🐍 **Python & SQL**
+* ⚡ **Apache Spark**
+* 🧱 **Databricks**
+* ❄️ **Snowflake**
+* 🌬️ **Apache Airflow**
+* ☁️ **AWS**
+* 🐘 **PostgreSQL**
+* 🐳 **Docker**
+* 🔌 **APIs & Backend Systems**
+
+Também tenho experiência na integração de **IA e LLMs em sistemas de software e dados**, conectando soluções técnicas a problemas reais de negócio.
+
+Minha experiência em **Product Management** complementa minha formação técnica, permitindo compreender não apenas como construir uma solução, mas também **qual problema ela precisa resolver e qual valor deve gerar**.
+
+---
+
+# 🇺🇸 About Me
+
+I’m a **Data Engineer with 20+ years of experience in technology**, with a background spanning software engineering, backend development, systems architecture, technical leadership, and Product Management.
+
+My current focus is **Data Engineering**, working with data pipelines, processing and transformation, and modern data platforms.
+
+My current stack includes:
+
+* 🐍 **Python & SQL**
+* ⚡ **Apache Spark**
+* 🧱 **Databricks**
+* ❄️ **Snowflake**
+* 🌬️ **Apache Airflow**
+* ☁️ **AWS**
+* 🐘 **PostgreSQL**
+* 🐳 **Docker**
+* 🔌 **APIs & Backend Systems**
+
+I also have experience integrating **AI and LLM capabilities into software and data systems**, connecting technical solutions with real-world business problems.
+
+My background in **Product Management** complements my technical experience, allowing me to understand not only **how to build a solution, but also which problem it needs to solve and the value it should create**.
+
+---
+
+# 🧰 Tech Stack
 
 <div align="center">
 
-<h2>Viktor Rocha</h2>
-
-<a href="mailto:viktoorrocha@gmail.com"><img src="https://img.shields.io/badge/-viktoorrocha%40gmail.com-2C5364?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0F2027?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Viktoorrocha"><img src="https://img.shields.io/badge/-GitHub-0F2027?style=flat-square&logo=github&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=Viktoorrocha&color=2C5364&style=flat-square&label=Profile+Views" />
+<img src="https://skillicons.dev/icons?i=python,postgres,aws,docker,git,linux&perline=6" />
 
 </div>
 
-<br/>
+| Área / Area         | Tecnologias / Technologies                 |
+| ------------------- | ------------------------------------------ |
+| **Programming**     | Python · SQL                               |
+| **Data Processing** | Apache Spark · PySpark                     |
+| **Data Platforms**  | Databricks · Snowflake                     |
+| **Databases**       | PostgreSQL                                 |
+| **Orchestration**   | Apache Airflow                             |
+| **Cloud**           | AWS                                        |
+| **Infrastructure**  | Docker                                     |
+| **Engineering**     | APIs · Backend · Data Modeling · ETL · ELT |
+| **AI**              | LLM APIs · AI/Data Systems                 |
 
-<div align="center" width="720">
+---
 
-### 🦾 Sobre mim
+# 🚀 Projetos / Projects
 
-**Backend & Data Engineer** com **20+ anos de experiência**, especializado em arquitetura de sistemas de dados e integração de IA em produtos com alto volume de transações.
+Meu GitHub é utilizado para documentar projetos práticos relacionados a **Engenharia de Dados, Engenharia de Software e sistemas de IA e dados**.
 
-- 🐍 **Python · Django · DRF · PostgreSQL** — design de APIs, modelagem de dados e otimização de queries em produção há duas décadas
-- 📊 **Airflow · dbt · Celery · Redis** — orquestração de pipelines ETL/ELT e processamento assíncrono distribuído
-- 🐳 **Docker** — containerização e deploy de serviços em ambientes de produção
-- 🤖 **LLM Engineering (Claude API)** — integração de modelos de linguagem em fluxos de produção, com foco em confiabilidade e custo
-- 🧠 Prioridade em observabilidade, testes e sistemas que sustentam carga real — não protótipo
-- 📍 Manaus, Amazonas, Brasil · 🕒 UTC−04:00
+My GitHub is used to document practical projects related to **Data Engineering, Software Engineering, and AI/Data Systems**.
 
-</div>
+### 📊 Data Engineering
 
-<br/>
+Projetos envolvendo:
+
+* ETL/ELT
+* Data Pipelines
+* Data Ingestion
+* Data Transformation
+* Data Modeling
+* Data Quality
+* Pipeline Orchestration
+* Analytics-ready datasets
+
+### ⚡ Big Data & Modern Data Platforms
+
+Projetos utilizando:
+
+**Apache Spark · PySpark · Databricks · Snowflake**
+
+### 🤖 AI & Data Systems
+
+Projetos explorando a integração de:
+
+**LLMs + APIs + Data Pipelines + Backend Systems**
+
+### ⚙️ Software Engineering
+
+Projetos relacionados a:
+
+**Python · Django · APIs · PostgreSQL · Docker**
+
+---
+
+# 💻 Background em Engenharia de Software
+
+Antes de focar em Engenharia de Dados, atuei em diferentes áreas do desenvolvimento de software, incluindo:
+
+* Backend development
+* REST APIs
+* Database design and integration
+* Web and mobile applications
+* Systems architecture
+* Technical leadership
+* Production systems
+* Integração entre negócio e engenharia
+
+**Technologies:** Django · Redis · Celery · PostgreSQL · REST APIs · Flutter · React · Ruby on Rails
+
+---
+
+# 🎯 Atualmente / Currently
+
+### 🇧🇷 Foco atual
+
+**Engenharia de Dados**
+
+Aprofundando conhecimentos em:
+
+`Python` · `SQL` · `Spark` · `Databricks` · `Snowflake` · `Airflow` · `AWS`
+
+Aberto a oportunidades como **Data Engineer**, especialmente posições remotas e equipes que trabalham com plataformas modernas de dados.
+
+### 🇺🇸 Current Focus
+
+**Data Engineering**
+
+Deepening my expertise in:
+
+`Python` · `SQL` · `Spark` · `Databricks` · `Snowflake` · `Airflow` · `AWS`
+
+Open to **Data Engineering opportunities**, particularly remote roles and teams working with modern data platforms.
+
+---
 
 <div align="center">
 
-### 🛠️ Stack
+### Building reliable systems with data.
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,celery,airflow,git,linux,aws,githubactions&perline=12" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📌 Projetos em destaque
-
-<i>Ajuste os repositórios abaixo pelos que melhor mostram seu trabalho atual — troque os placeholders pelos nomes reais.</i>
-
-<a href="https://github.com/Viktoorrocha/REPO-1"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Viktoorrocha&repo=REPO-1&theme=dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364"/></a>
-<a href="https://github.com/Viktoorrocha/REPO-2"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Viktoorrocha&repo=REPO-2&theme=dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364"/></a>
+**Construindo sistemas confiáveis com dados.**
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Viktoorrocha&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoorrocha&layout=compact&theme=dark&hide_border=true&bg_color=0F2027&title_color=2C5364" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viktoorrocha&theme=dark&hide_border=true&background=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viktoorrocha&theme=react-dark&hide_border=true&bg_color=0F2027&color=2C5364&line=2C5364&point=ffffff" width="90%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
